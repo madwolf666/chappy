@@ -1,65 +1,65 @@
 ********************************************************************************
 *** GIGAZINE ***
 ********************************************************************************
-■「マイティ・ソー」第3弾の映画「ソー：ラグナロク」予告編が公開中、ソーとハルクが対決へ
-http://gigazine.net/news/20170411-thor-ragnarok-trailer/
-■無料で任天堂のロゴ風デザインが作れるフォント「Nu Hanafudaya」
-http://gigazine.net/news/20170411-nu-hanafudaya/
-■Minecraftでユーザーが作ったコンテンツを販売する公式「マーケットプレイス」開始
-http://gigazine.net/news/20170411-minecraft-marketplace/
-■Googleの「AlphaGo」と中国の世界最強棋士の囲碁対決が5月に開催へ
-http://gigazine.net/news/20170411-alphago-match-china-top-go-player/
-■不動の王者だったAppleが「最高のノートPCメーカーランキング2017年版」で5位に急落
-http://gigazine.net/news/20170411-best-laptop-brands-of-2017/
-■ジーンズがどのようにして生まれたのかが2分以内にわかるムービー
-http://gigazine.net/news/20170411-how-blue-jeans-were-invented/
-■PR: VRで見てみよう！イベントを360度で体感できる！
-http://rss.rssad.jp/rss/ad/_hWlLGPLpXaZ/DVe9iGPuTS.n?type=2&ent=b9e6e368639ed169e316b9e74f840394
-■世界有数のスラム街「九龍城」で繰り広げられる人々の生活を収めた「City of Darkness: Revisited」
-http://gigazine.net/news/20170411-hong-kong-city-of-darkness-revisited/
-■iPhone・iPadで地デジ放送を高画質で視聴＆録画できるフルセグチューナー「PIX-DT350N」レビュー
-http://gigazine.net/news/20170410-pix-dt350n/
-■「アイスなのに辛口！？」をうたう「爽 ジンジャーエール味(辛口)」を食べてみた
-http://gigazine.net/news/20170410-lotte-soh-ginger-ale/
-■最高のタブレットは「iPad」ではなく「Surface」という顧客満足度調査
-http://gigazine.net/news/20170410-microsoft-surface-rank-highest-in-jd-power-2017/
-■増え続ける世界の人口が2100年までにどう変化するのかをグラフで表現
-http://gigazine.net/news/20170410-world-population-in-2100/
-■漫画・ゲーム・アニメなど「日本のクリエイティブを追うドキュメンタリームービーが一見の価値あり」と海外メディア
-http://gigazine.net/news/20170410-fantastic-documentary-japanese-creatives/
-■2017年4月10日のヘッドラインニュース
-http://gigazine.net/news/20170410-headline/
-■海水から作る食卓塩には健康への影響が懸念される微小なマイクロプラスチック粒子が含まれている
-http://gigazine.net/news/20170410-microplastic-in-salt/
-■緊急警報システムがハッキングを受け土曜深夜に市内156カ所で緊急警報が鳴り響く
-http://gigazine.net/news/20170410-hacking-156-emergency-sirens/
-■歴代アメリカ大統領が使用してきたアメリカの「名作」巡航ミサイル・トマホーク
-http://gigazine.net/news/20170410-tomahawk-brief-history/
-■地球内部のマントルまで掘り進めるプロジェクトが地球深部探査船「ちきゅう」を使っていよいよ始動
-http://gigazine.net/news/20170410-mantle-project/
-■Appleが次期iOSで32ビットアプリのサポートを終了か？過去の名作アプリが使えなくなる可能性
-http://gigazine.net/news/20170410-apple-drop-32-bit-app-support/
-■「あなたは普通なのか？」が分かるデータいろいろをまとめたムービー
-http://gigazine.net/news/20170410-are-you-normal/
-■ごみをのせるとAIが自動識別して分別してくれるRaspberry Pi搭載の自作リサイクルロボット「Recycle AI」
-http://gigazine.net/news/20170410-recycle-robot-raspberry-pi/
-■「生き物は小さくなるほど体における脳の割合が大きくなる」というハラーの法則
-http://gigazine.net/news/20170409-little-brains-rule/
-■バンパーカーを爆速のモンスターマシンに改造してワールドレコードを更新
-http://gigazine.net/news/20170409-world-fastest-bumper-car/
-■スマホを10.1インチのフルHDディスプレイに変身させる「Superscreen」
-http://gigazine.net/news/20170409-superscreen/
-■ドミノ・ピザがロボットによるピザ配達を2017年夏からヨーロッパでスタート
-http://gigazine.net/news/20170409-domino-deliver-pizza-robot/
-■冷却ファン・バッテリー・スタンド付きのスマホグリップ「スマクール」はスマホゲーマーにピッタリ
-http://gigazine.net/news/20170409-smacool-thanko/
-■NIKEの不朽の名作・エアマックス1に秘められた変態的なまでのこだわりがわかるムービー
-http://gigazine.net/news/20170409-airmax-behind-design/
-■ツナ缶と明太子の融合、230万缶売れた「めんツナかんかん」試食レビュー
-http://gigazine.net/news/20170408-fukuya-mentuna/
-■「障害者向け対策ができていない」として削除された2万もの無料講義映像をLBRYが再び無料で一般公開予定
-http://gigazine.net/news/20170408-lbry-educational-content/
-■脳はこれまで考えられていたより10倍も活動的
-http://gigazine.net/news/20170408-brain-ten-times-more-active/
-■スバルの「WRX STI」がオリンピックのボブスレーコースを爆走するムービー
-http://gigazine.net/news/20170408-subaru-wrx-sti-vs-bobsled-run/
+■Googleのスマートホワイトボード「Jamboard」がついに発売、どんなことができるのかが一発で分かる新ムービーも公開
+http://gigazine.net/news/20170524-jamboard-launching/
+■「囲碁AIはイ・セドルに勝てても私には勝てない」と発言していた中国の最強棋士がアルファ碁に破れる
+http://gigazine.net/news/20170524-alphago-china-champion/
+■マリオとUbisoftがコラボしたNintendo Switchゲーム「Mario + Rabbids Kingdom Battle」の画像がリークされる
+http://gigazine.net/news/20170524-mario-rabbids-kingdom-battle/
+■19カ月ぶりに「第5世代Surface Pro」をMicrosoftが発表、80％のパーツが刷新され待望のLTEチップが選択可能に
+http://gigazine.net/news/20170524-the-new-surface-pro/
+■Samsung「Galaxy S8」の虹彩認証を突破するのはひどく簡単
+http://gigazine.net/news/20170524-break-galaxy-s8-iris-scanner/
+■Intelが深度カメラとAtomプロセッサ内蔵の「Intel Euclid Development Kit(Intel Euclid開発キット)」を発売
+http://gigazine.net/news/20170524-intel-euclid-development-kit/
+■わかっているけど実感しづらい「地球が丸い」ことがわかるムービー
+http://gigazine.net/news/20170524-earth-isnt-flat/
+■格安モバイルバッテリーの代名詞「Anker(アンカー)」の誕生秘話
+http://gigazine.net/news/20170524-anker/
+■1400円で買ったアクセサリーが5000万円以上の価値を持つ超貴重な本物のダイヤモンドだった
+http://gigazine.net/news/20170524-26-carat-diamond/
+■【訃報】映画「007」シリーズの3代目ジェームズ・ボンドとして知られる俳優ロジャー・ムーアさん死去
+http://gigazine.net/news/20170524-sir-roger-moore-passed-away/
+■「魅力的な顔」の科学者は「有能でない」と判断されやすいことが判明
+http://gigazine.net/news/20170523-good-looks-influence/
+■あのファミチキがドドンとのって丼になった「黒幕引き丼」はガッツリ系魅惑の一品
+http://gigazine.net/news/20170523-familymart-kuromakuhikidon/
+■ビル・ゲイツが「自分の考えを見直すきっかけになった」と話す5冊の本
+http://gigazine.net/news/20170523-bill-gates-5-books/
+■もしすべての人類が突然生き返るとどうなるのか？
+http://gigazine.net/news/20170523-if-all-human-come-back-today/
+■最もメンタルヘルスに悪いアプリは「Instagram」
+http://gigazine.net/news/20170523-instagram-mental-health/
+■2017年5月23日のヘッドラインニュース
+http://gigazine.net/news/20170523-headline/
+■52の「知能遺伝子」が人間のIQ差に2割の影響を与えていることが徐々に明らかに
+http://gigazine.net/news/20170523-52-gene-intelligence/
+■「エイリアンの巨大建造物」の存在がささやかれる星が再び点滅を開始
+http://gigazine.net/news/20170523-alien-megastructure-star/
+■MITが汗に反応して通気口が開く「細菌入りTシャツ」を開発
+http://gigazine.net/news/20170523-mit-bacteria-workout-shirt/
+■AppleによるAndroidユーザーにiPhoneへの移行を促すCMムービーがある意味わかりやすい
+http://gigazine.net/news/20170523-move-to-iphone/
+■MicrosoftはDNAストレージをクラウドサービスに活用する計画を持っている
+http://gigazine.net/news/20170523-microsoft-plan-dna-storage-cloud/
+■イギリス・マンチェスターのコンサート会場で死傷者多数の爆発直後の現場からのムービーなどまとめ
+http://gigazine.net/news/20170523-manchester-arena-suicide-bombing/
+■iPhone 8の価格は9万円台後半からで256GBモデルは約12万円になる見込み
+http://gigazine.net/news/20170523-iphone-8-price/
+■淡水魚ティラピアの皮がやけど治療に効果を発揮している
+http://gigazine.net/news/20170523-tilapia-bandage-burn-skin/
+■PR: IODATAの湾曲モニターでライバルに差をつけよう！
+http://rss.rssad.jp/rss/ad/_hWlLGPLpXaZ/zDIBAKeXJdqC?type=2&ent=3d9d65d6bab29956f79a575b007074ec
+■人間ではなくアルゴリズムが投資判断をする「クオンツ」がウォールストリートを支配する
+http://gigazine.net/news/20170523-how-quants-use-algorithm/
+■あなたの睡眠の質が悪いのは汚れた空気のせいかもしれない
+http://gigazine.net/news/20170522-air-pollution-link-poor-sleep/
+■ピザとまぜそばが合体した「ajito ism」の名メニューを再現した「マルちゃん ajito ism ピザ味まぜそば」
+http://gigazine.net/news/20170522-maruchan-pizza-mazesoba/
+■同人誌をこだわって作りたい人向けの「InDesign」と「Illustrator」の使い方＆コツをAdobeがまとめて公開
+http://gigazine.net/news/20170522-adobe-design-book/
+■人肉を食べたら体に何が起こるのか？
+http://gigazine.net/news/20170522-what-if-ate-human-flesh/
+■アメリカのドローンユーザー登録制度が「無効である」という判断が下される
+http://gigazine.net/news/20170522-us-drone-resistration-rule/

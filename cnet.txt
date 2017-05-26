@@ -1,73 +1,65 @@
 ********************************************************************************
 *** CNET Japan ***
 ********************************************************************************
-■HAROiD、テレビ番組と連動した視聴者参加型のCM放送--キリン淡麗1本を先着で
-https://japan.cnet.com/article/35099577/
-■「ドラゴンクエストXI」が7月29日に発売へ--PS4と3DSで同時発売
-https://japan.cnet.com/article/35099592/
-■テレビとネットを組み合わせた最適な広告出稿を支援--ヤフーら3社が新ツール
-https://japan.cnet.com/article/35099535/
-■WikiLeaksが暴露したCIAのハッキングツールの使用実態が明らかに--シマンテック
-https://japan.cnet.com/article/35099559/
-■クックCEO、テクノロジを学ぶ女性の少なさ憂慮--「米国の優位性が失われる」
-https://japan.cnet.com/article/35099565/
-■10代に人気のSNS、米国ではSnapchatが1位--Instagramの追従策は効果薄？
-https://japan.cnet.com/article/35099570/
-■AMD、より没入感のあるワイヤレスVR／ARへ--Niteroの資産を買収
-https://japan.cnet.com/article/35099566/
-■ソニー、軽くなって持ち運びしやすい新「ハンディカム」--バッテリ込みで215g
-https://japan.cnet.com/article/35099571/
-■グーグル、LGのOLEDディスプレイ事業に1兆ウォン出資か--「Pixel」向け安定供給へ
-https://japan.cnet.com/article/35099561/
-■PR: 地震保険の世帯加入率は３割に過ぎません-政府広報
-http://rss.rssad.jp/rss/ad/UK2BM6WrEIEU/pXaYzFz2HYKB?type=2&ent=aec19ddcbac63d52d681e03cbbc63c8e
-■アップル、「Touch Bar」技術が公開特許に--Touch Bar外付けキーボードも視野に
-https://japan.cnet.com/article/35099533/
-■ZTE、新型スマートウォッチ「Quartz」を発表--「Android Wear 2.0」搭載
-https://japan.cnet.com/article/35099560/
-■グーグルのビデオ通話アプリ「Duo」、音声のみの通話が可能に
-https://japan.cnet.com/article/35099558/
-■PR: 地震保険の世帯加入率は３割に過ぎません-政府広報
-http://rss.rssad.jp/rss/ad/UK2BM6WrEIEU/K757YKBBWuGJ?type=2&ent=a3831afc0d518d49c8a4c646f7939cdb
-■マイクロソフト、「Minecraft」のオンラインストアを開設へ
-https://japan.cnet.com/article/35099553/
-■「Galaxy S8」は好調な滑り出し--人気はS8+のミッドナイトブラック
-https://japan.cnet.com/article/35099552/
-■トップ棋士とグーグルのAI「AlphaGo」が再び対決へ
-https://japan.cnet.com/article/35099551/
-■500 Startupsと神戸市が起業家支援に本腰--プレゼンスキルも伝授
-https://japan.cnet.com/article/35099544/
-■PR: VRで見てみよう！イベントを360度で体感できる！
-http://rss.rssad.jp/rss/ad/UK2BM6WrEIEU/Jp6VZTdSLEwy?type=2&ent=760552dabfdcdd4dec53ac67e1ddb42c
-■ソニー子会社とE Inkが電子ペーパー関連の合弁会社を設立
-https://japan.cnet.com/article/35099543/
-■ソニー、読みやすさと書き味にこだわった電子ペーパー「DPT-RP1」
-https://japan.cnet.com/article/35099539/
-■Windows Vistaのサポートは4月11日に終了へ--アップグレードや買い換えを
-https://japan.cnet.com/article/35099540/
-■DAZN、米WWEと提携--人気番組「Raw」など日本語字幕付きで提供
-https://japan.cnet.com/article/35099532/
-■IoTホテル「AND HOSTEL ASAKUSA NORTH」--キーもカーテンもスマホで開く
-https://japan.cnet.com/article/35099507/
-■グーグルに男女間報酬格差、米労働省が主張--グーグルは反論
-https://japan.cnet.com/article/35099505/
-■コネクテッド自動車データのOtonomo、2500万ドル調達
-https://japan.cnet.com/article/35099504/
-■SIEJA、4月29日に「PlayStation VR」の国内向け追加販売を実施
-https://japan.cnet.com/article/35099517/
-■PR: 大規模な自然災害でローン返済が困難な方へ-政府広報
-http://rss.rssad.jp/rss/ad/UK2BM6WrEIEU/86QrWfbfBCGw?type=2&ent=3ee14de4c38b03837f22c127eeade661
-■「Word」文書を利用するゼロデイ脆弱性--マクロを利用せずとも悪用可能
-https://japan.cnet.com/article/35099498/
-■新交通システム「Hyperloop」のテストコースが完成--路線候補11ルートを発表
-https://japan.cnet.com/article/35099511/
-■グーグル、スマホを利用した機械学習モデルの改良をテスト中
-https://japan.cnet.com/article/35099499/
-■名刺管理アプリ「Wantedly People」にPC版--CSV形式でのエクスポートも可能に
-https://japan.cnet.com/article/35099447/
-■PR: 大規模な自然災害でローン返済が困難な方へ-政府広報
-http://rss.rssad.jp/rss/ad/UK2BM6WrEIEU/DM3LQt8iNkaa?type=2&ent=31005ef6f9057c973f7643d03c3d42cd
-■Windows 10、初の「Redstone 3」PC向けプレビュービルド公開
-https://japan.cnet.com/article/35099501/
-■深夜に緊急サイレン鳴り響く--ダラス市の警報システムにハッキング
-https://japan.cnet.com/article/35099492/
+■リストグループ、横浜戸塚に160棟のエコタウン建設--BELS5つ星で専用ローンも
+https://japan.cnet.com/article/35101637/
+■シート型ディスプレイから冷蔵庫とテレビを連動する技術まで--NHK技研公開
+https://japan.cnet.com/article/35101650/
+■「Apple Watch Nike+」向けに4つの新スポーツバンド--シューズのカラーと同色に
+https://japan.cnet.com/article/35101667/
+■マイクロソフト、共同で手描きできるコラボアプリ「Whiteboard」を発表
+https://japan.cnet.com/article/35101664/
+■dTV、4K HDR作品の配信を開始--スマホ、テレビで視聴可能に
+https://japan.cnet.com/article/35101653/
+■ドコモ、2017年夏モデルは8機種--XperiaとGalaxyシリーズが充実
+https://japan.cnet.com/article/35101235/
+■ひかりTV、スマホ向け4K HDR VOD作品の提供開始へ
+https://japan.cnet.com/article/35101641/
+■「Snapchat」、特定のフレンド限定でストーリー作成が可能に
+https://japan.cnet.com/article/35101636/
+■「Pepper」ロボットが打ち破る、銀行業界の悪しき慣習
+https://japan.cnet.com/article/35101633/
+■100台限定、特別仕様の「Mercedes-Benz×VAIO Z」--VAIOとメルセデスがコラボ
+https://japan.cnet.com/article/35101546/
+■写真で見る「Mercedes-Benz×VAIO Z」--VAIOとメルセデスのコラボPC
+https://japan.cnet.com/article/35101547/
+■Instagram、「ストーリー」にロケーション機能を追加--またもSnapchatを後追い
+https://japan.cnet.com/article/35101618/
+■グーグル、「YouTube TV」やカレンダーを家族と共有できる「ファミリー」機能
+https://japan.cnet.com/article/35101624/
+■「Facebook Live」、非公開チャットと共同ライブ配信が可能に
+https://japan.cnet.com/article/35101616/
+■囲碁AI「AlphaGo」、またトップ棋士に勝利--3番勝負の初戦を制す
+https://japan.cnet.com/article/35101615/
+■PR: 旅行予約サイト選びのチェックポイントは？-政府広報
+http://rss.rssad.jp/rss/ad/UK2BM6WrEIEU/dpPkpYHIj3Y9?type=2&ent=a9ca58c5b218631d2b2ec0ea8d58cfcb
+■アップルとノキア、特許訴訟で和解--「敵対関係からビジネスパートナーへ」
+https://japan.cnet.com/article/35101614/
+■「Google I/O 2017」をおさらい--押さえておきたい発表まとめ
+https://japan.cnet.com/article/35101520/
+■新型「Surface Pro」発表--さらに薄型軽量、バッテリ持続13.5時間に
+https://japan.cnet.com/article/35101612/
+■TBSやテレ東、日経ら6社、動画配信の新会社を7月に設立へ
+https://japan.cnet.com/article/35101601/
+■福岡市と仏ボルドー・メトロポール、スタートアップ支援に関するMOU締結
+https://japan.cnet.com/article/35101552/
+■ソニー、「営業利益5000億円以上は十分に狙える」--高収益企業への転換
+https://japan.cnet.com/article/35101605/
+■大型タッチディスプレイ活用“プレイ感覚で購入”--ミクシィ「XFLAG STORE SHIBUYA」
+https://japan.cnet.com/article/35101590/
+■ギョギョっ！魚そっくりに泳ぐ4Kカメラ搭載ワイヤレス水中ドローン「BIKI」
+https://japan.cnet.com/article/35101593/
+■SNSで話題の記事を検索できる「RUNDA」--TOP20の記事をLINEでも配信
+https://japan.cnet.com/article/35100960/
+■Hulu、リニューアルによる不具合で謝罪--動画が再生されず
+https://japan.cnet.com/article/35101592/
+■ソフト開発ツール販売サイト「GitHub Marketplace」開設--ツール入手を一元化
+https://japan.cnet.com/article/35101578/
+■ランサムウェア「WannaCry」、支払われた身代金額は小規模？
+https://japan.cnet.com/article/35101561/
+■新型ワーム「EternalRocks」が発生--NSAの流出ツール7つを利用
+https://japan.cnet.com/article/35101568/
+■ドコモと東武鉄道、5Gサービスの創出拠点「5Gトライアルサイト」を公開
+https://japan.cnet.com/article/35101551/
+■Facebook、毎月5万4000件近いリベンジポルノ・性的脅迫に対処か
+https://japan.cnet.com/article/35101574/

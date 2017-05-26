@@ -1,78 +1,78 @@
 ********************************************************************************
 *** Engadget Japanese ***
 ********************************************************************************
-■    AMD、VR無線化のNiteroを買収。広帯域＆低遅延のミリ波ビームフォーミングチップメーカー
+■    クリエイター向け一体型PC｢Surface Studio｣､6月15日に国内発売。英Microsoftが発売日告知
 
-http://japanese.engadget.com/2017/04/11/amd-vr-nitero/
-■    iPhone 8はスマートコネクタでVR / ARデバイスに対応？置くだけ充電のうわさも
+http://japanese.engadget.com/2017/05/24/pc-surface-studio-6-15-microsoft/
+■    PCやスマホで書き込めるデジタル白板Google Jamboard､4999ドルで販売開始。遠隔から会議参加も可能
 
-http://japanese.engadget.com/2017/04/11/iphone-8-vr-ar/
-■    電気自動車のテスラ、時価総額で米自動車1位に。圧倒的な期待感を背景にホンダも射程圏
+http://japanese.engadget.com/2017/05/24/pc-google-jamboard-4999/
+■    dtab＝廉価版イメージを破る高性能、8.4型2K画面の新dtab Compactをドコモが発表
 
-http://japanese.engadget.com/2017/04/10/1/
-■    次期 Pixelも iPhoneも曲面有機EL採用？Google がLGディスプレイに約975億円の投資 (韓国ETNews報道)
+http://japanese.engadget.com/2017/05/24/dtab-8-4-2k-dtab-compact/
+■    ドコモ、格安スマホ対抗の新プラン「docomo with」発表。月1500円割引がずっと継続
 
-http://japanese.engadget.com/2017/04/10/pixel-iphone-el-google-lg-975-etnews/
-■    注目のXperia XZs 国内発売にさきがけ香港版を入手！美麗ボディの新スマホ開封レポート
+http://japanese.engadget.com/2017/05/23/docomo-with-1500/
+■    念願のCNCフライスをついに注文……ただし、激安の中華CNCだがな
 
-http://japanese.engadget.com/2017/04/10/xperia-xzs/
-■    数百回の自己修復が可能な撥水コーティング技術が発表。スプレーで簡単に塗布、摩耗や炎、プラズマ洗浄後も効果持続
+http://japanese.engadget.com/2017/05/23/cnc-cnc/
+■    片手操作も余裕な4.7型スマホ、Galaxy Feelをドコモが発表。小型ながら3000mAhの大容量バッテリー
 
-http://japanese.engadget.com/2017/04/10/tough-water-repellent-coating/
-■    動画：エレコムの珍しい系トラックボール2製品プレゼント、応募締切は4月14日正午。※チャンネル登録の上ご応募ください
+http://japanese.engadget.com/2017/05/23/4-7-galaxy-feel-3000mah/
+■    ドコモ版Xperia XZsは5月26日発売、画素数を追わない新カメラの魅力
 
-http://japanese.engadget.com/2017/04/10/trackball/
-■    花見好きモバイラー必携。栓抜き機能搭載microUSBケーブルが599円で発売。カラビナ付属で普段はキーホルダーに
+http://japanese.engadget.com/2017/05/23/xperia-xzs-5-26-960fps/
+■    再びの4Kスマホ Xperia XZ Premium、ドコモが6月に発売決定。受信788Mbps対応
 
-http://japanese.engadget.com/2017/04/10/microusb/
-■    高視認性で書き込み可な2画面楽譜デバイス「GVIDO」9月20日発売。大量のスコアも嵩張らず、ペダルでページめくりも
+http://japanese.engadget.com/2017/05/23/4k-xperia-xz-premium-6-788mbps/
+■    Galaxy S8 / S8+ ドコモ版は6月上旬発売、予約者全員にGear VR無料プレゼント
 
-http://japanese.engadget.com/2017/04/10/2-gvido-9-20/
-■    動画：スマホ縦撮り対応、モバイルバッテリーにもなる折りたたみ型2軸スタビライザー「SMOVE」 レビュー
+http://japanese.engadget.com/2017/05/23/galaxy-s8-s8-6-gear-vr/
+■    ドコモが夏スマホ発表 --Xperia XZ PremiumやGalaxy S8、AQUOS Rなど全8モデル
 
-http://japanese.engadget.com/2017/04/10/smove/
-■    スター・ウォーズ EP9にキャリー・フィッシャー出演へ。CGでなく最近の撮影済み素材を使用
+http://japanese.engadget.com/2017/05/23/xperia-xz-premium-galaxy-s8-aquos-r-9/
+■    「VAIO Z」にメルセデス・ベンツ仕様が登場、なぜ？ 100台限定
 
-http://japanese.engadget.com/2017/04/10/ep9-cg/
-■    ハイレゾ級うたう骨伝導イヤホン「EarsOpen」の実力と開発背景に迫る
+http://japanese.engadget.com/2017/05/23/vaio-z-100/
+■    QRコード用アプリはもう必要なし!  新しいChromeで読み取れます：iPhone Tips Best
 
-http://japanese.engadget.com/2017/04/10/earsopen/
-■    初のマントル到達に向け始動。科学掘削船「ちきゅう」9月にハワイ沖で予備調査を実施、地殻形成の謎に挑む
+http://japanese.engadget.com/2017/03/02/qr-chrome-iphone-tips/
+■    LTE通信搭載可能な新Surface Pro発表、米国価格は799ドルから。バッテリー駆動はPro 4比で1.5倍に
 
-http://japanese.engadget.com/2017/04/10/9/
-■    PlayStation VR、さらなる追加販売は4月29日から。高橋名人 vs 杉山愛によるVRテニス対戦動画も
+http://japanese.engadget.com/2017/05/23/lte-surface-pro-799-pro-4-1-5/
+■    Viveの装着感が劇的に向上。VIVE デラックス オーディオ ストラップの装着方法を写真で解説：週刊VR情報局
 
-http://japanese.engadget.com/2017/04/09/playstation-vr-4-29-vs-vr/
-■    空陸両用車AeroMobil、約4億円調達で新試作機製造に着手。デモ飛行にも再挑戦へ
+http://japanese.engadget.com/2017/05/23/vive-vive-vr/
+■    ソフトバンク版Xepria XZsの発売日が5月26日に決定、au版と同日に。一括価格は8万7840円
 
-http://japanese.engadget.com/2017/04/09/aeromobil-4/
-■    たまにはSiriに黙って働いてもらおう。「音声フィードバック」設定を使えばできる:iPhone Tips
+http://japanese.engadget.com/2017/05/23/xepria-xzs-5-26-au-8-7840/
+■    米ナイキ、Apple Watch Nikeスポーツバンドにスニーカーと合わせた新4色を追加。空の色の移り変わりを表現
 
-http://japanese.engadget.com/2017/04/09/siri-iphone-tips/
-■    立方体ボールを打ち合うリアル「Pong」出資募集中。リビングに置けるテーブル筐体型、約11万円から
+http://japanese.engadget.com/2017/05/23/apple-watch-nike-4/
+■    速報：日本では税込4万円、エイサーが開発者用Win MRヘッドセットの予約を楽天にて開始
 
-http://japanese.engadget.com/2017/04/09/pong-10/
-■    マクラーレンF1、現場で3Dプリンタ活用・ボロコプターがタクシーに・IBMワトソンによるヘルプデスク：画像ピックアップ75
+http://japanese.engadget.com/2017/05/23/4-win-mr/
+■    10.5インチiPad Proはすでにフル生産中？ 新型の12.9インチiPad Proも6月に量産スタートのうわさ
 
-http://japanese.engadget.com/2017/04/08/f1-3d-ibm-75/
-■    噂：MacBook Pro15インチにタッチバーなしモデルが追加か、次世代Mac Proに続く路線変更の一環
+http://japanese.engadget.com/2017/05/22/10-5-ipad-pro-12-9-ipad-pro-6/
+■    au版Xperia XZsは5月26日発売、スーパースローモーション撮影対応カメラなど楽しい撮影機能を搭載
 
-http://japanese.engadget.com/2017/04/07/macbook-pro15-mac-pro/
-■    アップル、iPhone向けかんたん動画作成アプリ Clips を無料配布。SNS映えするビデオを秒で撮影・加工・編集
+http://japanese.engadget.com/2017/05/22/au-xperia-xzs-5-26/
+■    Galaxy S8 / S8+、auは6月8日に発売。ひと目で印象に残る「ほぼ全部画面スマホ」
 
-http://japanese.engadget.com/2017/04/07/iphone-clips-sns/
-■    VAIO Phone Aも選べるFREETELのスマコミ+料金を試算。メリットを活かすには継続しないとダメ？
+http://japanese.engadget.com/2017/05/22/galaxy-s8-s8-au/
+■    秋葉原・中央通りにセガのVR施設が登場、「日本初登場のVRアトラクション」を導入して5月31日オープン
 
-http://japanese.engadget.com/2017/04/07/vaio-phone-a-freetel/
-■    セルフィーカメラだけでも売れる、特定機能で売り込むMeituの挑戦：山根博士の海外スマホよもやま話
+http://japanese.engadget.com/2017/05/22/vr-vr-5-31/
+■    iPhoneの空き容量がピンチ！「写真」の不要な機能をオフにしてスペースを生み出そう:iPhone Tips Best
 
-http://japanese.engadget.com/2017/04/07/meitu/
-■    事故発生時には即映像を送信、LTE対応ドライブレコーダーをドコモが法人向けに発売
+http://japanese.engadget.com/2017/02/26/iphone-iphone-tips/
+■    AIで変わるかもしれない結婚観 : 情熱のミーム　清水亮
 
-http://japanese.engadget.com/2017/04/07/lte/
-■    子供のニンテンドースイッチ遊びをゆる～く見守る「みまもりSwitch」を1か月使ってみた。eショップ利用の落とし穴に注意
+http://japanese.engadget.com/2017/05/22/ai/
+■    AIドローンでゾウを救え。深層学習AIでカメラ映像から密猟者を発見、接近を防止する取り組み
 
-http://japanese.engadget.com/2017/04/07/switch-1-e/
-■    Ubuntuがスマホ撤退。独自UI開発終了でデスクトップはGNOME回帰、今後はIoT /AIほかに注力
+http://japanese.engadget.com/2017/05/22/ai-ai/
+■    NVIDIA広報「釣りタイトルだけど...」 日経ビジネスに&quot;謎の半導体メーカー&quot;と扱われた件でコメント
 
-http://japanese.engadget.com/2017/04/07/ubuntu-ui-gnome-iot-ai/
+http://japanese.engadget.com/2017/05/22/nvidia/

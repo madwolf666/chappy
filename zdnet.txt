@@ -1,73 +1,65 @@
 ********************************************************************************
 *** ZDNet Japan ***
 ********************************************************************************
-■テクマトリックスなどが上昇--4月11日の国内IT株動向
-https://japan.zdnet.com/article/35099597/
-■Canonicalのシャトルワース氏、「主流」を嫌う一部のフリーソフトコミュニティに苦言
-https://japan.zdnet.com/article/35099578/
-■WikiLeaksが暴露したCIAのハッキングツールの使用実態が明らかに--シマンテック
-https://japan.zdnet.com/article/35099559/
-■2017年のコグニティブとAIシステム支出、前年比60％増--IDC予測
-https://japan.zdnet.com/article/35099424/
-■Amazon.comなどが上昇--4月10日の米IT株動向
-https://japan.zdnet.com/article/35099573/
-■錯綜する中東情勢
-https://japan.zdnet.com/article/35099562/
-■No More Ransom、ランサムウェア被害ファイルの無料復号ツール追加--「Bart」など対応
-https://japan.zdnet.com/article/35099555/
-■マイクロソフト、「Kubernetes」関連の新興企業Deisを買収へ
-https://japan.zdnet.com/article/35099557/
-■PR: 大規模な自然災害でローン返済が困難な方へ-政府広報
-http://rss.rssad.jp/rss/ad/v5TPECChUAF8/b0c30k7BbTk.?type=2&ent=46cb77899970701d5bcc310b82b9fdd9
-■オンプレとクラウドの狭間でユーザーは何を思うのか--クラウドベンダー座談会（1）
-https://japan.zdnet.com/article/35099290/
-■ソフトウェア定義ストレージ活用の指針--Dell EMCの見方
-https://japan.zdnet.com/article/35099358/
-■トップ棋士とグーグルのAI「AlphaGo」が再び対決へ
-https://japan.zdnet.com/article/35099551/
-■PR: 大規模な自然災害でローン返済が困難な方へ-政府広報
-http://rss.rssad.jp/rss/ad/v5TPECChUAF8/WURqKTi8h.cR?type=2&ent=7a58eb27935a75cebc06fc150f37b5c7
-■外国人売りは続くか--米シリア攻撃で不安広がる
-https://japan.zdnet.com/article/35099508/
-■株式市場から考える「自動運転」の未来
-https://japan.zdnet.com/article/35099510/
-■過去のIT投資時に固まったプロセス設計を見直す--RPA成功の条件
-https://japan.zdnet.com/article/35099304/
-■PR: VRで見てみよう！イベントを360度で体感できる！
-http://rss.rssad.jp/rss/ad/v5TPECChUAF8/GUlLG3NXjdwE?type=2&ent=9eaf68aa2e5fc68a1d4f609907fdf747
-■RackspaceのCEOが語るAWS、OpenStack、クラウドの未来
-https://japan.zdnet.com/article/35099497/
-■PR: 地震保険の世帯加入率は３割に過ぎません-政府広報
-http://rss.rssad.jp/rss/ad/v5TPECChUAF8/QF5y56vWObwL?type=2&ent=fff1a49f109b8b4148433aa7bc3300d1
-■豆蔵ホールディングスなどが上昇--4月10日の国内IT株動向
-https://japan.zdnet.com/article/35099542/
-■VMwareが続伸--4月9日の米IT株動向
-https://japan.zdnet.com/article/35099518/
-■しんきん情報、オープンAPIの共通基盤構築に着手
-https://japan.zdnet.com/article/35099530/
-■LINE、脆弱性報告133件中5件を認定--報奨制度も拡大
-https://japan.zdnet.com/article/35099536/
-■成長する日本のIoT市場、今後の推移をどう読み解くべきか？
-https://japan.zdnet.com/article/35099526/
-■Tableau、サブスクリプション方式の価格体系を導入--予算の計画と展開を柔軟に
-https://japan.zdnet.com/article/35099480/
-■三井住友カード、機械学習で予測モデルの精度を向上--マーケと与信管理で活用
-https://japan.zdnet.com/article/35099477/
-■NTT西日本、業務端末1万1300台に手のひら静脈認証を導入
-https://japan.zdnet.com/article/35099478/
-■アサヒグループが オールフラッシュストレージを採用し 5年間のTCOを63%削減
-https://japan.zdnet.com/extra/hpe_201703/35098443/
-■「Word」文書を利用するゼロデイ脆弱性--マクロを利用せずとも悪用可能
-https://japan.zdnet.com/article/35099498/
-■グーグル、スマホを利用した機械学習モデルの改良をテスト中
-https://japan.zdnet.com/article/35099499/
-■2016年世界クラウドITインフラ投資は9.2％増--IDC
-https://japan.zdnet.com/article/35099503/
-■Windows 10、初の「Redstone 3」PC向けプレビュービルド公開
-https://japan.zdnet.com/article/35099501/
-■PR: 大規模な自然災害でローン返済が困難な方へ-政府広報
-http://rss.rssad.jp/rss/ad/v5TPECChUAF8/WURqKTi8h.cR?type=2&ent=1a98b43b08490f9ce209b1b64a4a2cce
-■深夜に緊急サイレン鳴り響く--ダラス市の警報システムにハッキング
-https://japan.zdnet.com/article/35099492/
-■日本で注意され始めた「ビジネスメール詐欺」--傾向と対策は？
-https://japan.zdnet.com/article/35099431/
+■カスペルスキー、Windows向けセキュリティソフト最新版を提供
+https://japan.zdnet.com/article/35101548/
+■マイクロソフト、共同で手描きできるコラボアプリ「Whiteboard」を発表
+https://japan.zdnet.com/article/35101664/
+■グーグルが「Chrome」の企業向けパッケージをリリース
+https://japan.zdnet.com/article/35101635/
+■Alphabetなどが上昇--5月23日の米IT株動向
+https://japan.zdnet.com/article/35101639/
+■消化不良のロシア疑惑--今後の展開は?
+https://japan.zdnet.com/article/35101630/
+■Citrix Synergy開催--アナリティクスやクラウドサービス、デジタルワークプレース強化など
+https://japan.zdnet.com/article/35101619/
+■囲碁AI「AlphaGo」、またトップ棋士に勝利--3番勝負の初戦を制す
+https://japan.zdnet.com/article/35101615/
+■開発とテストにおける慎重なオーケストレーションの重要性--ソフトウェア開発（3）
+https://japan.zdnet.com/article/35101543/
+■IoTを使って宿泊施設で泥棒も--DDoSから広がるサイバー犯罪の手口
+https://japan.zdnet.com/article/35101596/
+■IoTでビジネスを創るためのテクノロジが整った--IoT座談会（1）
+https://japan.zdnet.com/article/35101134/
+■「Einstein」のAI技術を幹部会議で活用も--セールスフォースのベニオフ氏語る
+https://japan.zdnet.com/article/35101588/
+■PR: 全国に67万！？土砂災害・危険箇所-政府広報
+http://rss.rssad.jp/rss/ad/v5TPECChUAF8/X.R.UuVL4tfh?type=2&ent=acf6207dc9149a5ee519ea9f9ef1efdf
+■個人情報保護法ガイドラインを廃止--経産省と厚労省
+https://japan.zdnet.com/article/35101607/
+■新型「Surface Pro」発表--さらに薄型軽量、バッテリ持続13.5時間に
+https://japan.zdnet.com/article/35101612/
+■マイクロソフトとPreferred Networks、ディープラーニング分野で協業
+https://japan.zdnet.com/article/35101598/
+■日立製作所の新メインフレーム環境にIBMのハードウェア技術
+https://japan.zdnet.com/article/35101591/
+■ランサムウェア「WannaCry」、支払われた身代金額は小規模？
+https://japan.zdnet.com/article/35101561/
+■新型ワーム「EternalRocks」が発生--NSAの流出ツール7つを利用
+https://japan.zdnet.com/article/35101568/
+■2016年の半導体市場は2.6％成長、2017年も堅調の見込み--Gartner
+https://japan.zdnet.com/article/35101572/
+■VMwareなどが上昇--5月22日の米IT株動向
+https://japan.zdnet.com/article/35101567/
+■業績拡大続く--日経平均PERは14倍まで低下
+https://japan.zdnet.com/article/35101565/
+■運用統合やデータ爆発を見据えた、今後のバックアップ手法とは-- HPE高野氏が講演
+https://japan.zdnet.com/pickup/hpe_backupseminar_201703/35098872/
+■「Android」マルウェアを100万台に感染、銀行に送金指示--ハッカー集団が大金盗む
+https://japan.zdnet.com/article/35101569/
+■QRコード電子決済利用者を増やすアリババ
+https://japan.zdnet.com/article/35101550/
+■WikiLeaks、CIAのマルウェア「Athena」を暴露--Windows標的
+https://japan.zdnet.com/article/35101560/
+■SAPが"HANAに続く大型発表”「Leonardo」--System of Innovationとは
+https://japan.zdnet.com/article/35101398/
+■デジタル化の波は不可逆--「ヒトの摂理」に反しないサービスが生き残る
+https://japan.zdnet.com/article/35100897/
+■次の「WannaCry」を防ぐ5つの方法（劇薬2案を含む）
+https://japan.zdnet.com/article/35101436/
+■セキュアだけではない。“生産性向上”につながる「働き方改革」とは
+https://japan.zdnet.com/extra/soliton_201705/35100988/
+■ソフトバンクなどが上昇--5月22日の国内IT株動向
+https://japan.zdnet.com/article/35101530/
+■第三者に取られたドメインを取り戻せ--JPCERT/CCの体験記
+https://japan.zdnet.com/article/35101524/
