@@ -65,16 +65,16 @@ while True:
             "SMTP":"",
             "SMTP_SSL":"smtp.gmail.com",
             "PORT":465,
-            "LOGIN_MAIL":"madwolf699@gmail.com",
-            "LOGIN_PASS":"chappy666",
+            "LOGIN_MAIL":"",
+            "LOGIN_PASS":"",
         }
 
         a_result = Search_words()
 
         mail_msg = {
             "SUBJECT":"Today\'s Tweet Search",
-            "FROM":"madwolf699@gmail.com",
-            "TO":"madwolf666@live.jp",
+            "FROM":"",
+            "TO":"",
             "BODY":a_result
         }
 
@@ -85,8 +85,8 @@ while True:
 
         mail_msg = {
             "SUBJECT":"Today\'s Tweet Merkov",
-            "FROM":"madwolf699@gmail.com",
-            "TO":"madwolf666@live.jp",
+            "FROM":"",
+            "TO":"",
             "BODY":twits
         }
 

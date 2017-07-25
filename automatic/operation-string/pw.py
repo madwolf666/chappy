@@ -2,14 +2,6 @@
 # pw.py - パスワード管理プログラム（脆弱性あり）
 
 PASSWORDS = {
-    'office365': 'harry666',
-    'onamae.com': 'chappy666',
-    'facebook': 'chappy666',
-    'twitter': 'harry666',
-    'git': 'chappy666',
-    'teamservice': 'chappy666',
-    'oracle': 'ChappyHarry666',
-    'rakuten': 'chappy999'
     }
 
 import sys

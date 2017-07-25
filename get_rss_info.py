@@ -33,14 +33,14 @@ if __name__ == '__main__':
         "SMTP":"",
         "SMTP_SSL":"smtp.gmail.com",
         "PORT":465,
-        "LOGIN_MAIL":"madwolf699@gmail.com",
-        "LOGIN_PASS":"chappy666",
+        "LOGIN_MAIL":"",
+        "LOGIN_PASS":"",
     }
 
     msg = {
         "SUBJECT":"Today\'s RSS",
-        "FROM":"madwolf699@gmail.com",
-        "TO":"madwolf666@live.jp",
+        "FROM":"",
+        "TO":"",
         "BODY":a_result
     }
 
