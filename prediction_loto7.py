@@ -10,7 +10,7 @@ def sigmoid(x):
     return 1 / (1 + np.exp(-x))
 
 def _read_learned_data():
-    fin = codecs.open('C:\\Users\\ict\\Downloads\\loto7.csv', 'r', 'shift_jis')
+    fin = codecs.open('C:\\Users\\hal\\Downloads\\loto7.csv', 'r', 'shift_jis')
     a_rec = 0
     for a_line in fin:
         a_split= a_line.replace("'", "").split(",")

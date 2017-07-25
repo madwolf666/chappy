@@ -11,14 +11,14 @@ def Mail_Send(h_auth, h_msg):
             "SMTP":"",
             "SMTP_SSL":"smtp.gmail.com",
             "PORT":465,
-            "LOGIN_MAIL":"madwolf699@gmail.com",
-            "LOGIN_PASS":"chappy666",
+            "LOGIN_MAIL":"",
+            "LOGIN_PASS":"",
         }
     :param h_msg:   以下の形式
         h_msg = {
             "SUBJECT":"Today\'s Tweet Search",
-            "FROM":"madwolf699@gmail.com",
-            "TO":"madwolf666@live.jp",
+            "FROM":"",
+            "TO":"",
             "BODY":a_result
         }
     :return:        なし
