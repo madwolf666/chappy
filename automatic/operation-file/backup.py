@@ -7,6 +7,7 @@ backup_tree = [
     ['C:\\Users\\hal\Documents\\HCS\電子教材印刷用PDF作成', 'G:\\なんだかんだ\\HCS\電子教材印刷用PDF作成'],
     ['C:\\Users\\hal\\Documents\\Kali-Linux', 'G:\\なんだかんだ\\Kali-Linux'],
     ['C:\\Users\\hal\\Documents\\OWT\\見える化サーバ', 'G:\\なんだかんだ\\OWT\\見える化サーバ'],
+    ['C:\\Users\\hal\\Documents\\マルカツ\\レンタルシステム\\trouble', 'G:\\マルカツ\\レンタルシステム\\trouble'],
 ]
 #['C:\\Users\\hal\Documents\\NetBeansProjects\\owt-remote-observe-relay', 'G:\\なんだかんだ\\NetBeansProjects\\owt-remote-observe-relay'],
 
