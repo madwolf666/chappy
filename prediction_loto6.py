@@ -59,8 +59,8 @@ def _create_prediction_model1():
 
     #予測は？
     #a_clf.coef_ × [BONUS数字] + a_clf.intercept_
-    a_tmp = _X[len(_X)-1, 0] + 3
-    #a_tmp = _X[len(_X)-1, 0] + 4
+    #a_tmp = _X[len(_X)-1, 0] + 3
+    a_tmp = _X[len(_X)-1, 0] + 4
     print('a_tmp：' + str(a_tmp))
     a_val = _clf.coef_*(a_tmp) + _clf.intercept_
     print('予測値：' + str(a_val))
