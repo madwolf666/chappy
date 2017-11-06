@@ -49,9 +49,9 @@ def _checkFile(h_path):
         if os.path.isdir(h_path + "\\" + a_file) == True:
             _checkFile(h_path + "\\" + a_file)
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
 if __name__ == '__main__':
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
     a_args = sys.argv
     logging.info('バックアップ指定ファイル：%s', a_args[1])
     backup_tree = Store_DataFile(a_args[1])
