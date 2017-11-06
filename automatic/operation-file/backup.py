@@ -1,5 +1,7 @@
+import sys
 import logging
 import shutil, os
+import csv
 from distutils import dir_util
 
 #会社PC：HAL用
@@ -27,6 +29,15 @@ backup_tree = [
 
 #自宅PC
 
+def Store_DataFile(h_fileName):
+    a_textLine = []
+    #a_csv_obj = csv.reader(open(h_fileName, 'r', encoding='shift_jis'))
+    a_csv_obj = csv.reader(open(h_fileName, 'r', encoding='utf-8'))
+    for v in a_csv_obj:
+        a_textLine.append(v)
+
+    return a_textLine
+
 def _checkFile(h_path):
     a_files = os.listdir(h_path)
     for a_file in a_files:
@@ -40,17 +51,22 @@ def _checkFile(h_path):
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-for a_tree in backup_tree:
-    logging.info('バックアップ元：%s', a_tree[0])
-    logging.info('バックアップ先：%s', a_tree[1])
+if __name__ == '__main__':
+    a_args = sys.argv
+    logging.info('バックアップ指定ファイル：%s', a_args[1])
+    backup_tree = Store_DataFile(a_args[1])
 
-    #ディレクトリ削除
-    #shutil.rmtree(a_tree[1])
+    for a_tree in backup_tree:
+        logging.info('バックアップ元：%s', a_tree[0])
+        logging.info('バックアップ先：%s', a_tree[1])
 
-    #copytreeでは追加で上書きができない
-    #shutil.copytree(a_tree[0],a_tree[1])
-    dir_util.copy_tree(a_tree[0], a_tree[1])
+        #ディレクトリ削除
+        #shutil.rmtree(a_tree[1])
 
-    _checkFile(a_tree[1])
+        #copytreeでは追加で上書きができない
+        #shutil.copytree(a_tree[0],a_tree[1])
+        dir_util.copy_tree(a_tree[0], a_tree[1])
 
-    logging.info('****** バックアップ完了 ******')
+        _checkFile(a_tree[1])
+
+        logging.info('****** バックアップ完了 ******')
