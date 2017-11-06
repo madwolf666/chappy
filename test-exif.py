@@ -99,6 +99,7 @@ def get_10_from_60_exif(h_ref, h_gps):
     return a_data
 
 if __name__ == '__main__':
+    #_checkFile("C:\\Users\\hal\\Documents\\tmp\\tmp")
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     a_args = sys.argv
