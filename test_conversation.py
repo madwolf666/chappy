@@ -1,4 +1,4 @@
-import mct_scrap
+from libmct import mct_scrap
 
 g_cl = mct_scrap.ConversationLearning('ptna', 'dics/random.txt', 'dics/pattern.txt', 'dics/template.txt', 'dics/log.txt')  # Ptnaオブジェクトを保持
 g_log = []

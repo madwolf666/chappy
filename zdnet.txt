@@ -1,65 +1,75 @@
 ********************************************************************************
 *** ZDNet Japan ***
 ********************************************************************************
-■カスペルスキー、Windows向けセキュリティソフト最新版を提供
-https://japan.zdnet.com/article/35101548/
-■マイクロソフト、共同で手描きできるコラボアプリ「Whiteboard」を発表
-https://japan.zdnet.com/article/35101664/
-■グーグルが「Chrome」の企業向けパッケージをリリース
-https://japan.zdnet.com/article/35101635/
-■Alphabetなどが上昇--5月23日の米IT株動向
-https://japan.zdnet.com/article/35101639/
-■消化不良のロシア疑惑--今後の展開は?
-https://japan.zdnet.com/article/35101630/
-■Citrix Synergy開催--アナリティクスやクラウドサービス、デジタルワークプレース強化など
-https://japan.zdnet.com/article/35101619/
-■囲碁AI「AlphaGo」、またトップ棋士に勝利--3番勝負の初戦を制す
-https://japan.zdnet.com/article/35101615/
-■開発とテストにおける慎重なオーケストレーションの重要性--ソフトウェア開発（3）
-https://japan.zdnet.com/article/35101543/
-■IoTを使って宿泊施設で泥棒も--DDoSから広がるサイバー犯罪の手口
-https://japan.zdnet.com/article/35101596/
-■IoTでビジネスを創るためのテクノロジが整った--IoT座談会（1）
-https://japan.zdnet.com/article/35101134/
-■「Einstein」のAI技術を幹部会議で活用も--セールスフォースのベニオフ氏語る
-https://japan.zdnet.com/article/35101588/
-■PR: 全国に67万！？土砂災害・危険箇所-政府広報
-http://rss.rssad.jp/rss/ad/v5TPECChUAF8/X.R.UuVL4tfh?type=2&ent=acf6207dc9149a5ee519ea9f9ef1efdf
-■個人情報保護法ガイドラインを廃止--経産省と厚労省
-https://japan.zdnet.com/article/35101607/
-■新型「Surface Pro」発表--さらに薄型軽量、バッテリ持続13.5時間に
-https://japan.zdnet.com/article/35101612/
-■マイクロソフトとPreferred Networks、ディープラーニング分野で協業
-https://japan.zdnet.com/article/35101598/
-■日立製作所の新メインフレーム環境にIBMのハードウェア技術
-https://japan.zdnet.com/article/35101591/
-■ランサムウェア「WannaCry」、支払われた身代金額は小規模？
-https://japan.zdnet.com/article/35101561/
-■新型ワーム「EternalRocks」が発生--NSAの流出ツール7つを利用
-https://japan.zdnet.com/article/35101568/
-■2016年の半導体市場は2.6％成長、2017年も堅調の見込み--Gartner
-https://japan.zdnet.com/article/35101572/
-■VMwareなどが上昇--5月22日の米IT株動向
-https://japan.zdnet.com/article/35101567/
-■業績拡大続く--日経平均PERは14倍まで低下
-https://japan.zdnet.com/article/35101565/
-■運用統合やデータ爆発を見据えた、今後のバックアップ手法とは-- HPE高野氏が講演
-https://japan.zdnet.com/pickup/hpe_backupseminar_201703/35098872/
-■「Android」マルウェアを100万台に感染、銀行に送金指示--ハッカー集団が大金盗む
-https://japan.zdnet.com/article/35101569/
-■QRコード電子決済利用者を増やすアリババ
-https://japan.zdnet.com/article/35101550/
-■WikiLeaks、CIAのマルウェア「Athena」を暴露--Windows標的
-https://japan.zdnet.com/article/35101560/
-■SAPが"HANAに続く大型発表”「Leonardo」--System of Innovationとは
-https://japan.zdnet.com/article/35101398/
-■デジタル化の波は不可逆--「ヒトの摂理」に反しないサービスが生き残る
-https://japan.zdnet.com/article/35100897/
-■次の「WannaCry」を防ぐ5つの方法（劇薬2案を含む）
-https://japan.zdnet.com/article/35101436/
-■セキュアだけではない。“生産性向上”につながる「働き方改革」とは
-https://japan.zdnet.com/extra/soliton_201705/35100988/
-■ソフトバンクなどが上昇--5月22日の国内IT株動向
-https://japan.zdnet.com/article/35101530/
-■第三者に取られたドメインを取り戻せ--JPCERT/CCの体験記
-https://japan.zdnet.com/article/35101524/
+■クアルコム、Broadcomによる買収提案を拒否
+https://japan.zdnet.com/article/35110333/
+■PR: お子さんの進学・在学に！「国の教育ローン」-政府広報
+http://rss.rssad.jp/rss/ad/v5TPECChUAF8/R0CrY8IxuUfM?type=2&ent=7febdab0576ff504573c4c91f16f016d
+■個人情報保護新時代におけるデータ保護オフィサーとは？
+https://japan.zdnet.com/article/35109210/
+■積み重なるセキュリティの負担--「運用」改善の方策を探る
+https://japan.zdnet.com/article/35110316/
+■データ科学によるイノベーションの可能性--保険大手AIGの元幹部らに聞く
+https://japan.zdnet.com/article/35110138/
+■APIが作り出す2030年に向けた企業間取引の未来像
+https://japan.zdnet.com/article/35109195/
+■PR: 抗菌薬が効かない薬剤耐性（ＡＭＲ）が拡大！-政府広報
+http://rss.rssad.jp/rss/ad/v5TPECChUAF8/Bk5EY9Awmksi?type=2&ent=7aa118857a7052b5d698c9743b8ee729
+■再確認すべき「Wi-Fiのセキュリティ事情」
+https://japan.zdnet.com/article/35110297/
+■富士ソフトなどが上昇--11月13日の国内IT株動向
+https://japan.zdnet.com/article/35110313/
+■SMFGとSMBC、RPAとOCRで事務作業の入力効率化
+https://japan.zdnet.com/article/35110308/
+■詐欺メールと会話して犯人の時間を奪うAIメールボット「Re:scam」が登場
+https://japan.zdnet.com/article/35110285/
+■マルチクラウド化のトレンド加速、「OpenStack」導入増加
+https://japan.zdnet.com/article/35110270/
+■NVIDIA、データセンター向け事業が急成長--年間20億ドルに達する勢い
+https://japan.zdnet.com/article/35110278/
+■IBM、50量子ビットプロセッサのプロトタイプ構築
+https://japan.zdnet.com/article/35110271/
+■「フィッシングはデータ漏えいより危険」--グーグル調査
+https://japan.zdnet.com/article/35110269/
+■Salesforce.comなどが上昇--11月10日の米IT株動向
+https://japan.zdnet.com/article/35110288/
+■日経平均にスピード調整の兆し--外国人買いはどこまで続く？
+https://japan.zdnet.com/article/35110284/
+■日本の経営層、ソフトウェア戦略で海外に後れ--CA調べ
+https://japan.zdnet.com/article/35110280/
+■PR: 抗菌薬が効かない薬剤耐性（ＡＭＲ）が拡大！-政府広報
+http://rss.rssad.jp/rss/ad/v5TPECChUAF8/u7Yh3H8PVn6w?type=2&ent=8969fa4f62f59b0d2a495ce7e0832bdf
+■ニチイ学館、医療・介護分野でNECと業務提携
+https://japan.zdnet.com/article/35110279/
+■国内製造業、2017年度は新製品開発やマーケティング強化を重視--IDC調査
+https://japan.zdnet.com/article/35110276/
+■成長事業の柱に育てるKDDIのIoTビジネス戦略
+https://japan.zdnet.com/article/35109312/
+■PR: ＤＶは、身体への暴力だけではありません-政府広報
+http://rss.rssad.jp/rss/ad/v5TPECChUAF8/bPe1yPH7Hm_5?type=2&ent=bc27a07993dd3b1a641c8c745b3361d0
+■国内SMBでも「第3のプラットフォーム」が拡大--年平均6.2％で成長
+https://japan.zdnet.com/article/35110185/
+■“新生”Dr.Sumで新たな市場狙う--インメモリで大規模データ処理に照準
+https://japan.zdnet.com/article/35110200/
+■オープンなセキュリティ連携基盤の構築を進めるマカフィー
+https://japan.zdnet.com/article/35110227/
+■PR: お子さんの進学・在学に！「国の教育ローン」-政府広報
+http://rss.rssad.jp/rss/ad/v5TPECChUAF8/R0CrY8IxuUfM?type=2&ent=732177393cc1ba7953c7f0ae7ed66af4
+■アディダスがセールスフォースとAIアプリ--「最高のスポーツカンパニー」へ
+https://japan.zdnet.com/article/35110240/
+■あらゆるものがサービスになる時代--XaaSの現状と将来予測
+https://japan.zdnet.com/article/35110223/
+■懐かしのIBM機--初代「IBM PC」から「ThinkPad」まで：写真で見る
+https://japan.zdnet.com/article/35108544/
+■IT部門の苦悩--25年で起きた劇的な変化
+https://japan.zdnet.com/article/35110220/
+■セブン銀行、法人向けネットバンキングサービスと「MFクラウド経費」をAPI連携
+https://japan.zdnet.com/article/35110134/
+■住吉鋼管、基幹業務システムを全面クラウド化--障害時の長期停止リスクを解消
+https://japan.zdnet.com/article/35110183/
+■PR: 住宅火災を防ぐための７つのポイント-政府広報
+http://rss.rssad.jp/rss/ad/v5TPECChUAF8/fmnPaegjXQ1A?type=2&ent=910270b931701fc02a5955d24814c53e
+■CIOが知るべきエンジニア採用の秘訣
+https://japan.zdnet.com/article/35109980/
+■新潟市、災害時情報システムを刷新--罹災証明書の発行を迅速化
+https://japan.zdnet.com/article/35110182/

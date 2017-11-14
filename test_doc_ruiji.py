@@ -1,5 +1,9 @@
-import mct_scrap
+from libmct import mct_scrap
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+from libmct import mct_scrap
+
 
 def _cosine_(h_tf_idfs, h_index, h_max):
     for a_i in range(h_index, h_max - 1):

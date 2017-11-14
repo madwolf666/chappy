@@ -1,4 +1,4 @@
-import mct_scrap
+from libmct import mct_scrap
 
 if __name__ == '__main__':
     a_wordlist = mct_scrap.Scrap_Janome_Parse("", "text.txt", "janome_parse.txt")
