@@ -88,8 +88,10 @@ if __name__ == '__main__':
     #_checkFile("C:\\Users\\hal\\Documents\\tmp\\tmp")
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-    shutil.rmtree(".\\kml")
-    shutil.rmtree(".\\photo")
+    if (os.path.exists(".\\kml")):
+        shutil.rmtree(".\\kml")
+    if (os.path.exists(".\\photo")):
+        shutil.rmtree(".\\photo")
     os.mkdir(".\\kml")
     os.mkdir(".\\photo")
 
