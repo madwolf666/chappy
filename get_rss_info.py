@@ -1,5 +1,5 @@
-import mct_crawl
-import mct_mail
+from libmct import mct_crawl
+from libmct import mct_mail
 
 if __name__ == '__main__':
     #Yahoo

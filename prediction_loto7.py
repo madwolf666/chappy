@@ -1,8 +1,10 @@
 import codecs
 from pprint import pprint
-import numpy as np
+
 import matplotlib.pylab as plt
-from mct_functions import sigmoid, softmax
+import numpy as np
+
+from libmct.mct_functions import sigmoid, softmax
 
 _learned_data = [[] for j in range(7)]
 

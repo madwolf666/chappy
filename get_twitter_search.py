@@ -1,11 +1,13 @@
-import sys
-#from natto import MeCab
-import MeCab
 import random
 import re
-import mct_crawl
-import mct_scrap
-import mct_mail
+import sys
+
+# from natto import MeCab
+import MeCab
+from libmct import mct_crawl
+from libmct import mct_scrap
+
+from libmct import mct_mail
 
 while True:
     search_words = input(u"words: ")
@@ -22,7 +24,7 @@ while True:
         return a_result
 
     def Mecab_file():
-        wordlist = mct_scrap.Scrap_Mecab_Wakati("", "tweet.txt","wakati.txt")
+        wordlist = mct_scrap.Scrap_Mecab_Wakati("", "tweet.txt", "wakati.txt")
         #print("wordlist\n")
         #print(wordlist)
         dict = mct_scrap.Scrap_Mecab_Markov_Dict(wordlist, "")
@@ -46,7 +48,7 @@ while True:
         return twits
 
     def Janome_file():
-        wordlist = mct_scrap.Scrap_Janome_Parse("", "tweet.txt","janome_parse.txt")
+        wordlist = mct_scrap.Scrap_Janome_Parse("", "tweet.txt", "janome_parse.txt")
         #print("wordlist\n")
         #print(wordlist)
         dict = mct_scrap.Scrap_Janome_Markov_Dict(wordlist, "")

@@ -1,4 +1,4 @@
-import mct_crawl
+from libmct import mct_crawl
 
 if __name__ == '__main__':
     a_payload = {'city':'016010'}

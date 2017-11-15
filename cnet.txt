@@ -1,65 +1,71 @@
 ********************************************************************************
 *** CNET Japan ***
 ********************************************************************************
-■リストグループ、横浜戸塚に160棟のエコタウン建設--BELS5つ星で専用ローンも
-https://japan.cnet.com/article/35101637/
-■シート型ディスプレイから冷蔵庫とテレビを連動する技術まで--NHK技研公開
-https://japan.cnet.com/article/35101650/
-■「Apple Watch Nike+」向けに4つの新スポーツバンド--シューズのカラーと同色に
-https://japan.cnet.com/article/35101667/
-■マイクロソフト、共同で手描きできるコラボアプリ「Whiteboard」を発表
-https://japan.cnet.com/article/35101664/
-■dTV、4K HDR作品の配信を開始--スマホ、テレビで視聴可能に
-https://japan.cnet.com/article/35101653/
-■ドコモ、2017年夏モデルは8機種--XperiaとGalaxyシリーズが充実
-https://japan.cnet.com/article/35101235/
-■ひかりTV、スマホ向け4K HDR VOD作品の提供開始へ
-https://japan.cnet.com/article/35101641/
-■「Snapchat」、特定のフレンド限定でストーリー作成が可能に
-https://japan.cnet.com/article/35101636/
-■「Pepper」ロボットが打ち破る、銀行業界の悪しき慣習
-https://japan.cnet.com/article/35101633/
-■100台限定、特別仕様の「Mercedes-Benz×VAIO Z」--VAIOとメルセデスがコラボ
-https://japan.cnet.com/article/35101546/
-■写真で見る「Mercedes-Benz×VAIO Z」--VAIOとメルセデスのコラボPC
-https://japan.cnet.com/article/35101547/
-■Instagram、「ストーリー」にロケーション機能を追加--またもSnapchatを後追い
-https://japan.cnet.com/article/35101618/
-■グーグル、「YouTube TV」やカレンダーを家族と共有できる「ファミリー」機能
-https://japan.cnet.com/article/35101624/
-■「Facebook Live」、非公開チャットと共同ライブ配信が可能に
-https://japan.cnet.com/article/35101616/
-■囲碁AI「AlphaGo」、またトップ棋士に勝利--3番勝負の初戦を制す
-https://japan.cnet.com/article/35101615/
-■PR: 旅行予約サイト選びのチェックポイントは？-政府広報
-http://rss.rssad.jp/rss/ad/UK2BM6WrEIEU/dpPkpYHIj3Y9?type=2&ent=a9ca58c5b218631d2b2ec0ea8d58cfcb
-■アップルとノキア、特許訴訟で和解--「敵対関係からビジネスパートナーへ」
-https://japan.cnet.com/article/35101614/
-■「Google I/O 2017」をおさらい--押さえておきたい発表まとめ
-https://japan.cnet.com/article/35101520/
-■新型「Surface Pro」発表--さらに薄型軽量、バッテリ持続13.5時間に
-https://japan.cnet.com/article/35101612/
-■TBSやテレ東、日経ら6社、動画配信の新会社を7月に設立へ
-https://japan.cnet.com/article/35101601/
-■福岡市と仏ボルドー・メトロポール、スタートアップ支援に関するMOU締結
-https://japan.cnet.com/article/35101552/
-■ソニー、「営業利益5000億円以上は十分に狙える」--高収益企業への転換
-https://japan.cnet.com/article/35101605/
-■大型タッチディスプレイ活用“プレイ感覚で購入”--ミクシィ「XFLAG STORE SHIBUYA」
-https://japan.cnet.com/article/35101590/
-■ギョギョっ！魚そっくりに泳ぐ4Kカメラ搭載ワイヤレス水中ドローン「BIKI」
-https://japan.cnet.com/article/35101593/
-■SNSで話題の記事を検索できる「RUNDA」--TOP20の記事をLINEでも配信
-https://japan.cnet.com/article/35100960/
-■Hulu、リニューアルによる不具合で謝罪--動画が再生されず
-https://japan.cnet.com/article/35101592/
-■ソフト開発ツール販売サイト「GitHub Marketplace」開設--ツール入手を一元化
-https://japan.cnet.com/article/35101578/
-■ランサムウェア「WannaCry」、支払われた身代金額は小規模？
-https://japan.cnet.com/article/35101561/
-■新型ワーム「EternalRocks」が発生--NSAの流出ツール7つを利用
-https://japan.cnet.com/article/35101568/
-■ドコモと東武鉄道、5Gサービスの創出拠点「5Gトライアルサイト」を公開
-https://japan.cnet.com/article/35101551/
-■Facebook、毎月5万4000件近いリベンジポルノ・性的脅迫に対処か
-https://japan.cnet.com/article/35101574/
+■他人との給料比較、企業の“退職者”コミュニティ--注目の海外HRスタートアップ5選
+https://japan.cnet.com/article/35109780/
+■「Amazon Echo」と「Alexa」で使えるクールな機能15選
+https://japan.cnet.com/article/35110233/
+■クアルコム、Broadcomによる買収提案を拒否
+https://japan.cnet.com/article/35110333/
+■PR: 抗菌薬が効かない薬剤耐性（ＡＭＲ）が拡大！-政府広報
+http://rss.rssad.jp/rss/ad/UK2BM6WrEIEU/72tNmfe1L1_U?type=2&ent=8e85f3b41df6aef49b214cf82dfd9779
+■楽天・三木谷氏、フリマアプリで「流通総額2000億円を目指す」
+https://japan.cnet.com/article/35110331/
+■リコージャパンと日本MS、中小企業の働き方改革を支援--Microsoft 365を中核に
+https://japan.cnet.com/article/35110324/
+■ボーズ、睡眠支援に特化した無線イヤホン「Bose sleepbuds」--Indiegogoで試験提供
+https://japan.cnet.com/article/35110315/
+■グーグル、ストリートビュー画像の段差を目立たなく--新たな画像合成アルゴリズム
+https://japan.cnet.com/article/35110302/
+■詐欺メールと会話して犯人の時間を奪うAIメールボット「Re:scam」が登場
+https://japan.cnet.com/article/35110285/
+■「不動産テックで次世代の賃貸オーナーをつなぐ」--ハウスコムの田村社長
+https://japan.cnet.com/article/35110304/
+■ソフトバンクがUberに100億ドル出資へ--持株比率は最大20％
+https://japan.cnet.com/article/35110298/
+■Uber、「ドライバーは従業員」とする裁定を控訴するも棄却される--英裁判所
+https://japan.cnet.com/article/35110283/
+■米アクセラレータ「Techstars Music」が新プログラム始動--音楽×テックビジネス創出へ
+https://japan.cnet.com/article/35109800/
+■配車サービスによる混雑を緩和へ--UberとLyft、SF市で乗降ゾーンの導入テスト
+https://japan.cnet.com/article/35110282/
+■テレビで気になったトピックをアレクサで記録---HAROiD、Amazon Echo対応アプリ
+https://japan.cnet.com/article/35110237/
+■「フィッシングはデータ漏えいより危険」--グーグル調査
+https://japan.cnet.com/article/35110269/
+■アップル、イメージセンサ技術のInVisageを買収--「Face ID」に活用の可能性も
+https://japan.cnet.com/article/35110281/
+■常に新しい“ワクワク”を--ユニクロが中国で仕掛ける次世代型デジタルサイネージ
+https://japan.cnet.com/article/35110097/
+■PR: 抗菌薬が効かない薬剤耐性（ＡＭＲ）が拡大！-政府広報
+http://rss.rssad.jp/rss/ad/UK2BM6WrEIEU/9ZBRskBk3bOZ?type=2&ent=4e3bd5b764b918a6a551325b5d4129fb
+■Twitter、「名前」の長さを50文字に拡大
+https://japan.cnet.com/article/35110268/
+■アリババ、「独身の日」の取引総額が過去最高--253億ドル
+https://japan.cnet.com/article/35110267/
+■文字数制限を280字に拡大したTwitter、その狙いは？
+https://japan.cnet.com/article/35110222/
+■PR: お子さんの進学・在学に！「国の教育ローン」-政府広報
+http://rss.rssad.jp/rss/ad/UK2BM6WrEIEU/ZQlZZjyqH5bC?type=2&ent=e1e79deed708120970de74ed46024f68
+■小学校のプログラミング教育、目指すべき本質はどこにあるのか
+https://japan.cnet.com/article/35110186/
+■任天堂、Switch向け「いっしょにチョキッと スニッパーズ プラス」を発売
+https://japan.cnet.com/article/35110244/
+■ハーマン、高級オーディオ「REVEL」「Mark Levinson」に新モデル--製品保証期間延長へ
+https://japan.cnet.com/article/35110014/
+■［ブックレビュー］プロが教えるVRビジネスのコツ--「VR for BUSINESS」
+https://japan.cnet.com/article/35109910/
+■FPSの名作「DOOM」をテーマにしたPS VR専用「DOOM VFR」--12月21日に発売
+https://japan.cnet.com/article/35110241/
+■MBAに代わる選択肢に？バルセロナに誕生した次世代を見据えた私立大学
+https://japan.cnet.com/article/35109742/
+■PR: 勲章のはなし　国が功労を表彰するということ-政府広報
+http://rss.rssad.jp/rss/ad/UK2BM6WrEIEU/VtpnncwhoOt7?type=2&ent=c904b0ea4e721ada33b491d2b66a6e1e
+■スマートスピーカの認知度は約3割--知名度はGoogle、Amazon、LINEの順に
+https://japan.cnet.com/article/35110154/
+■不動産特化型クラウドファンディング「OwnersBook」、東京23区から全国展開へ
+https://japan.cnet.com/article/35110228/
+■Fan’sグループが会社が空き家再生事業「再生家」を開始--収益不動産リプロハウスに
+https://japan.cnet.com/article/35110236/
+■MacBook用のQiワイヤレス充電システム「MagC」--iPhone Xの充電も可能
+https://japan.cnet.com/article/35110178/

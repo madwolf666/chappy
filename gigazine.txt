@@ -1,65 +1,63 @@
 ********************************************************************************
 *** GIGAZINE ***
 ********************************************************************************
-■Googleのスマートホワイトボード「Jamboard」がついに発売、どんなことができるのかが一発で分かる新ムービーも公開
-http://gigazine.net/news/20170524-jamboard-launching/
-■「囲碁AIはイ・セドルに勝てても私には勝てない」と発言していた中国の最強棋士がアルファ碁に破れる
-http://gigazine.net/news/20170524-alphago-china-champion/
-■マリオとUbisoftがコラボしたNintendo Switchゲーム「Mario + Rabbids Kingdom Battle」の画像がリークされる
-http://gigazine.net/news/20170524-mario-rabbids-kingdom-battle/
-■19カ月ぶりに「第5世代Surface Pro」をMicrosoftが発表、80％のパーツが刷新され待望のLTEチップが選択可能に
-http://gigazine.net/news/20170524-the-new-surface-pro/
-■Samsung「Galaxy S8」の虹彩認証を突破するのはひどく簡単
-http://gigazine.net/news/20170524-break-galaxy-s8-iris-scanner/
-■Intelが深度カメラとAtomプロセッサ内蔵の「Intel Euclid Development Kit(Intel Euclid開発キット)」を発売
-http://gigazine.net/news/20170524-intel-euclid-development-kit/
-■わかっているけど実感しづらい「地球が丸い」ことがわかるムービー
-http://gigazine.net/news/20170524-earth-isnt-flat/
-■格安モバイルバッテリーの代名詞「Anker(アンカー)」の誕生秘話
-http://gigazine.net/news/20170524-anker/
-■1400円で買ったアクセサリーが5000万円以上の価値を持つ超貴重な本物のダイヤモンドだった
-http://gigazine.net/news/20170524-26-carat-diamond/
-■【訃報】映画「007」シリーズの3代目ジェームズ・ボンドとして知られる俳優ロジャー・ムーアさん死去
-http://gigazine.net/news/20170524-sir-roger-moore-passed-away/
-■「魅力的な顔」の科学者は「有能でない」と判断されやすいことが判明
-http://gigazine.net/news/20170523-good-looks-influence/
-■あのファミチキがドドンとのって丼になった「黒幕引き丼」はガッツリ系魅惑の一品
-http://gigazine.net/news/20170523-familymart-kuromakuhikidon/
-■ビル・ゲイツが「自分の考えを見直すきっかけになった」と話す5冊の本
-http://gigazine.net/news/20170523-bill-gates-5-books/
-■もしすべての人類が突然生き返るとどうなるのか？
-http://gigazine.net/news/20170523-if-all-human-come-back-today/
-■最もメンタルヘルスに悪いアプリは「Instagram」
-http://gigazine.net/news/20170523-instagram-mental-health/
-■2017年5月23日のヘッドラインニュース
-http://gigazine.net/news/20170523-headline/
-■52の「知能遺伝子」が人間のIQ差に2割の影響を与えていることが徐々に明らかに
-http://gigazine.net/news/20170523-52-gene-intelligence/
-■「エイリアンの巨大建造物」の存在がささやかれる星が再び点滅を開始
-http://gigazine.net/news/20170523-alien-megastructure-star/
-■MITが汗に反応して通気口が開く「細菌入りTシャツ」を開発
-http://gigazine.net/news/20170523-mit-bacteria-workout-shirt/
-■AppleによるAndroidユーザーにiPhoneへの移行を促すCMムービーがある意味わかりやすい
-http://gigazine.net/news/20170523-move-to-iphone/
-■MicrosoftはDNAストレージをクラウドサービスに活用する計画を持っている
-http://gigazine.net/news/20170523-microsoft-plan-dna-storage-cloud/
-■イギリス・マンチェスターのコンサート会場で死傷者多数の爆発直後の現場からのムービーなどまとめ
-http://gigazine.net/news/20170523-manchester-arena-suicide-bombing/
-■iPhone 8の価格は9万円台後半からで256GBモデルは約12万円になる見込み
-http://gigazine.net/news/20170523-iphone-8-price/
-■淡水魚ティラピアの皮がやけど治療に効果を発揮している
-http://gigazine.net/news/20170523-tilapia-bandage-burn-skin/
-■PR: IODATAの湾曲モニターでライバルに差をつけよう！
-http://rss.rssad.jp/rss/ad/_hWlLGPLpXaZ/zDIBAKeXJdqC?type=2&ent=3d9d65d6bab29956f79a575b007074ec
-■人間ではなくアルゴリズムが投資判断をする「クオンツ」がウォールストリートを支配する
-http://gigazine.net/news/20170523-how-quants-use-algorithm/
-■あなたの睡眠の質が悪いのは汚れた空気のせいかもしれない
-http://gigazine.net/news/20170522-air-pollution-link-poor-sleep/
-■ピザとまぜそばが合体した「ajito ism」の名メニューを再現した「マルちゃん ajito ism ピザ味まぜそば」
-http://gigazine.net/news/20170522-maruchan-pizza-mazesoba/
-■同人誌をこだわって作りたい人向けの「InDesign」と「Illustrator」の使い方＆コツをAdobeがまとめて公開
-http://gigazine.net/news/20170522-adobe-design-book/
-■人肉を食べたら体に何が起こるのか？
-http://gigazine.net/news/20170522-what-if-ate-human-flesh/
-■アメリカのドローンユーザー登録制度が「無効である」という判断が下される
-http://gigazine.net/news/20170522-us-drone-resistration-rule/
+■セックス中の「腹上死」は現実、行為中に心停止を起こすケースが一定の割合で存在することが明らかに
+http://gigazine.net/news/20171114-sex-trigger-cardiac-arrest/
+■アウトドアでもモバイル機器を充電できる水力発電機「Enomad-Uno」を使ってみた
+http://gigazine.net/news/20171113-enomad-uno-hydroelectric-power/
+■「最高級羽毛布団」と評されるパンケーキをシクスバイオリエンタルで食べてきました
+http://gigazine.net/news/20171113-6thbyorientalhotel-pancake/
+■あなたの家のどの部屋に最も多く虫がいるのか？
+http://gigazine.net/news/20171113-house-bugs/
+■無料で粗い画像を機械学習したAIがきれいに補完して拡大してくれる「Let’s Enhance」を使ってみた
+http://gigazine.net/news/20171113-let-us-enhance-review/
+■2017年11月13日のヘッドラインニュース
+http://gigazine.net/news/20171113-headline/
+■濃厚でコクがあるさつまいもアイスが楽しめる「明治 エッセルスーパーカップ スイートポテト味」を食べてみたレビュー
+http://gigazine.net/news/20171113-meiji-supercup-sweet-potato/
+■Googleが「メールアカウントをハッキングされないようにする方法」を伝授
+http://gigazine.net/news/20171113-how-prevent-email-account-hacked/
+■ハエの嗅覚に関するアルゴリズムを利用して検索システムを改良
+http://gigazine.net/news/20171113-fly-brain-search-algorithm/
+■iPhone Xに「音割れ」や「ディスプレイ反応低下」などいくつかの不具合が浮上
+http://gigazine.net/news/20171113-iphone-x-issue/
+■「独身の日」に中国のアリババが仕掛けたオンラインショッピングイベントの取引総額が3兆円弱に到達
+http://gigazine.net/news/20171113-alibaba-singles-day/
+■約15万ピースのドミノでスーパーマリオ オデッセイを表現した圧巻のムービー
+http://gigazine.net/news/20171113-super-mario-odyssey-dominoes/
+■「.io」ドメインを製品版で採用してはいけない理由
+http://gigazine.net/news/20171113-io-domain/
+■仮想通貨BitcoinのハードフォークSegwit2が延期に、分裂騒動が成長を阻害するとの懸念も
+http://gigazine.net/news/20171113-bitcoin-collapse/
+■フランス革命時代に描かれた「稲妻」に隠された意味とは？
+http://gigazine.net/news/20171113-lightning-history/
+■iPhone Xのスマホを超越したカメラ性能をプロの写真家が大絶賛、撮影事例も公開中
+http://gigazine.net/news/20171113-iphone-x-camera/
+■Nintendo Switchはストリーミングサービスを使うには理想的なハードウェア
+http://gigazine.net/news/20171112-nintendo-switch-ideal-streaming/
+■無料でインストール＆登録不要で使えるPC遠隔操作ツール「TrustViewer」を使ってみたレビュー
+http://gigazine.net/news/20171112-trustviewer/
+■人工知能によって運営される無人の「AI警察署」が中国で近日登場予定
+http://gigazine.net/news/20171112-china-ai-police-station/
+■福岡民なら知っている懐かしくなるご当地写真をいろいろと
+http://gigazine.net/news/20171112-fukuoka-symbol-mark/
+■チョコレートのつぶらな瞳がみつめてくる「タヌキとキツネ」コラボドーナツを食べてほっこり癒されてみた
+http://gigazine.net/news/20171112-floresta-tanukitsu/
+■日本にいながら世界中のスポーツチケットをゲットできる「viagogo」でNBAを生観戦してみた
+http://gigazine.net/news/20171112-viagogo/
+■「頑張って稼いだお金を高価な物につぎ込んでしまう」行為に隠された心理学
+http://gigazine.net/news/20171112-psychology-behind-spending-big/
+■新旧マリオの良いとこ取りな「スーパーマリオ オデッセイ」で初心者も上級者も楽しめる圧巻クオリティに感動した
+http://gigazine.net/news/20171111-super-mario-odyssey/
+■国際宇宙ステーションと月が重なる1秒未満のタイミングを狙った写真の撮影に17歳の少年が成功
+http://gigazine.net/news/20171111-photograph-iss-crossing-full-moon/
+■自分だけの街を育成しながらゲーム感覚で楽しく家計簿がつけられるアプリ「Fortune City」
+http://gigazine.net/news/20171111-fortune-city/
+■ミスドのクリスマスケーキのようなドーナツ「クリスマスビッグドーナツ」など「クリスマスドーナツ」全11種類を食べてみた
+http://gigazine.net/news/20171111-misterdonut-christmas-big/
+■Googleの発売前ハードを体験できる期間限定の公式ストア「Google＠WeHo」に行ってきました
+http://gigazine.net/news/20171111-google-weho/
+■1万3600kcalの巨大キットカットを失敗せずにおうちで作る方法が公開中
+http://gigazine.net/news/20171111-diy-giant-kitkat/
+■新幹線の先頭車両は「トンネルドン」対策のために変わった形状になっている
+http://gigazine.net/news/20171110-shinkansen-500-series-biomimetics/
