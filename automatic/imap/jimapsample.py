@@ -3,14 +3,14 @@ from backports import ssl
 import pyzmail
 
 context = ssl.SSLContext(ssl.PROTOCOL_TLSv1_2)
-imap_obj = imapclient.IMAPClient('imap.gmail.com', ssl=True, ssl_context=context)
-imap_obj.login('', '')
+#imap_obj = imapclient.IMAPClient('imap.gmail.com', ssl=True, ssl_context=context)
+#imap_obj.login('madwolf699@gmail.com', 'chappy666')
 
-#imap_obj = imapclient.IMAPClient('imap.mail.yahoo.com', ssl=True, ssl_context=context)
-#imap_obj.login('', '')
+imap_obj = imapclient.IMAPClient('imap.mail.yahoo.co.jp', ssl=True, ssl_context=context)
+imap_obj.login('madwolf666@yahoo.ne.jp', 'chappy666')
 
 #imap_obj = imapclient.IMAPClient('imap.outlook.com', ssl=True, ssl_context=context)
-#imap_obj.login('', '')
+#imap_obj.login('madwolf666@live.jp', 'harry666')
 
 imap_obj.select_folder('INBOX', readonly=True)
 
