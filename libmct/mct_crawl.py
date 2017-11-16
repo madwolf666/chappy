@@ -59,32 +59,32 @@ def Crawl_Find_MediaWiki(h_title, h_outFile):
     }
     a_categories = requests.get(a_url, params=a_api_params1).json()
     a_json_dump = json.dumps(a_categories, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
-    print(a_json_dump)
+    #print(a_json_dump)
     a_page_id = a_categories['query']['pages']
     a_result = ""
     a_isOK = True
 
     if '-1' in a_page_id:
         a_result = '該当するページがありません'
-        print(a_result)
+        #print(a_result)
         a_isOK = False
 
     else:
         a_id = list(a_page_id.keys())
         if 'categories' in a_categories['query']['pages'][a_id[0]]:
             a_categories = a_categories['query']['pages'][a_id[0]]['categories']
-            for t in a_categories:
-                print(t['title'])
+            #for t in a_categories:
+                #print(t['title'])
         else:
             a_result = '保存できるページを検索できませんでした'
-            print(a_result)
+            #print(a_result)
             a_isOK = False
 
     if (a_isOK == True):
         if (h_outFile != ""):
             a_data = requests.get(a_url, params=a_api_params2)
             #    json_dump = json.dumps(data, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
-            print(a_data)
+            #print(a_data)
             with open(h_title + '.html', 'w', encoding='utf_8') as a_f:
                 a_f.write(a_data.text)
 
@@ -147,7 +147,7 @@ def Crawl_Find_Twitter(h_auth, h_words, h_outFile):
     a_tw = OAuth1Session(h_auth["C_KEY"], h_auth["C_SECRET"], h_auth["A_KEY"], h_auth["A_SECRET"])
     a_req = a_tw.get(a_url, params=a_params)
     a_tweets = json.loads(a_req.text)
-    print(json.dumps(a_tweets, indent=4, separators=(',', ': ')))
+    #print(json.dumps(a_tweets, indent=4, separators=(',', ': ')))
 
     a_result = ""
 

@@ -740,7 +740,7 @@ def Scrap_Mecab_Markov_Chain(h_wordlist, h_dict, h_loop, h_reg):
     #ここでもsplitの処理が必要
     a_wordlist = h_wordlist.rstrip(" \n").split(" ")
     a_choice_words = a_wordlist[0]
-    print(a_choice_words)
+    #print(a_choice_words)
     a_sentence = ""
     a_count = 0
 
@@ -750,12 +750,12 @@ def Scrap_Mecab_Markov_Chain(h_wordlist, h_dict, h_loop, h_reg):
         a_count += 1
 
         a_sentence = a_sentence.split(" ", 1)[0]
-        print("*** sentence")
-        print(a_sentence)
+        #print("*** sentence")
+        #print(a_sentence)
         a_p = re.compile(h_reg)
         a_sus = a_p.sub("", a_sentence)
-        print("*** sus")
-        print(a_sus)
+        #print("*** sus")
+        #print(a_sus)
 
     return a_sus
 
