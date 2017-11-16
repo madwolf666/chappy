@@ -39,3 +39,5 @@ if __name__ == '__main__':
             }
 
             mct_mail.Mail_Send(auth, msg)
+
+            os.remove(a_args[1] + "/" + a_file)
