@@ -13,8 +13,10 @@ try:
         position_str += ' RGB: (' + str(pixel_color[0]).rjust(3)
         position_str += ', ' + str(pixel_color[1]).rjust(3)
         position_str += ', ' + str(pixel_color[2]).rjust(3) + ')'
-        print(position_str, end='')
-        print('\b' * len(position_str), end='', flush=True)  # ❶
+        print(position_str)
+        #print(position_str, end='')
+        print('\b' * len(position_str))  # ❶
+        #print('\b' * len(position_str), end='', flush=True)  # ❶
 
 except KeyboardInterrupt: # ❶
     print('\n終了。')     # ❷
