@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import sys
 from urllib.parse import urlparse
 import mysql.connector

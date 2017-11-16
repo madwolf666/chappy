@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import requests
 import json
 from bs4 import BeautifulSoup
@@ -109,13 +111,22 @@ def Crawl_Get_Rss(h_site_name, h_url, h_outFile):
     a_result += '********************************************************************************\n'
 
     for news in a_soup.findAll('item'):
+        #print(news)
         #print(news.title.string, news.link.string)
+        #Python2
+        #a_result += '■' + news.title.string.encode('utf-8') + '\n'
+        #if (news.link != None):
+        #    a_result += str(news.link.string).encode('utf-8') + '\n'
+        #elif (news.guid != None):
+        #    a_result += str(news.guid.string).encode('utf-8') + '\n'
+        #Python3
         a_result += '■' + news.title.string + '\n'
         a_result += news.link.string + '\n'
         # print(a_result)
 
     if (h_outFile != ""):
-        a_f = open(h_outFile, "w", encoding='utf-8')
+        a_f = open(h_outFile, "w", 'utf-8')
+        #a_f = open(h_outFile, "w", encoding='utf-8')
         a_f.write(a_result)
         a_f.flush()
         a_f.close()

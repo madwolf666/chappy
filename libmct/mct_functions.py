@@ -1,4 +1,5 @@
-# coding: utf-8
+# -*- coding: utf-8 -*-
+
 import numpy as np
 from PIL import Image
 from PIL.ExifTags import TAGS,GPSTAGS
