@@ -36,13 +36,17 @@ def Mail_Send(h_auth, h_msg):
 
     message['Subject'] = str(Header(h_msg["SUBJECT"], a_encoding))
     message['From'] = h_msg["FROM"]
-    message['To'] = h_msg["TO"]
 
-    if(h_auth["IS_SSL"]==True):
-        gm = smtplib.SMTP_SSL(h_auth["SMTP_SSL"], h_auth["PORT"])
-    else:
-        gm = smtplib.SMTP_SSL(h_auth["SMTP"], h_auth["PORT"])
+    a_to_list = h_msg["TO"].split(":")
+    for a_to in a_to_list:
+        message['To'] = a_to
 
-    gm.login(h_auth["LOGIN_MAIL"],h_auth["LOGIN_PASS"])
-    gm.sendmail(h_msg["FROM"], h_msg["TO"], message.as_string())
-    gm.close()
+        if(h_auth["IS_SSL"]==True):
+            gm = smtplib.SMTP_SSL(h_auth["SMTP_SSL"], h_auth["PORT"])
+        else:
+            gm = smtplib.SMTP_SSL(h_auth["SMTP"], h_auth["PORT"])
+
+        gm.login(h_auth["LOGIN_MAIL"],h_auth["LOGIN_PASS"])
+        gm.sendmail(h_msg["FROM"], a_to, message.as_string())
+        gm.close()
+
