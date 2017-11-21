@@ -36,6 +36,8 @@ def Mail_Send(h_auth, h_msg):
 
     message['Subject'] = str(Header(h_msg["SUBJECT"], a_encoding))
     message['From'] = h_msg["FROM"]
+    if (h_msg["Cc"] != ""):
+        message['Cc'] = h_msg["Cc"]
 
     a_to_list = h_msg["TO"].split(":")
     for a_to in a_to_list:

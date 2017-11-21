@@ -33,8 +33,9 @@ if __name__ == '__main__':
                 #"SUBJECT":a_args[5],
                 #Python3
                 "SUBJECT":a_args[5].encode('utf-8'),
-                "FROM":a_args[4],
+                "FROM":a_args[2],
                 "TO":a_file,
+                "Cc":a_args[4],
                 "BODY":a_result
             }
 
