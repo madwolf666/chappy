@@ -2,9 +2,9 @@
 
 import sys
 #Python2
-from urlparse import urlparse
+#from urlparse import urlparse
 #Python3
-#from urllib.parse import urlparse
+from urllib.parse import urlparse
 import mysql.connector
 
 class mct_MySQL:
@@ -38,10 +38,10 @@ class mct_MySQL:
             )
         except Exception as exp:
             a_strErr = " ".join(map(str, exp.args))
-            print a_strErr
+            #print a_strErr
         except:
             a_strErr = sys.exc_info()
-            print a_strErr
+            #print a_strErr
 
     def Quering(self, h_sql, h_condition):
         a_cursor = None
@@ -54,11 +54,11 @@ class mct_MySQL:
         except Exception as exp:
             a_cursor = None
             a_strErr = " ".join(map(str, exp.args))
-            print a_strErr
+            #print a_strErr
         except:
             a_cursor = None
             a_strErr = sys.exc_info()
-            print a_strErr
+            #print a_strErr
 
         return a_cursor
 
