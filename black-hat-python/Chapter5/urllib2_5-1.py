@@ -1,3 +1,4 @@
+#5.1　Webのソケットライブラリ
 import urllib.request
 
 url = "http://www.google.com"
