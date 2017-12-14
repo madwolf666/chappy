@@ -47,7 +47,7 @@ class mct_MySQL:
         a_cursor = None
         try:
             #print(h_sql)
-            a_cursor = self.conn.cursor()
+            a_cursor = self.conn.cursor(dictionary=True)
             a_query = (h_sql)
             a_cursor.execute(a_query, h_condition)
 

@@ -50,25 +50,25 @@ if __name__ == '__main__':
     if (a_cursor != None):
         a_sw = None
         for a_row in a_cursor.fetchall():
-            if (a_row[6] == 0) and (a_row[7] == 0):
+            if (a_row['is_exists_next'] == 0) and (a_row['is_exists_end'] == 0):
                 #次の契約レポートなし、かつ非対称者でない
-                a_email_addr_now = a_row[8]
+                a_email_addr_now = a_row['email_addr']
                 if (a_email_addr_now == None):
                     a_email_addr_now = ""
                 if (a_email_addr_now != ''):
-                    a_fname = a_args[1] + '/' + a_row[8]
+                    a_fname = a_args[1] + '/' + a_row['email_addr']
                     a_sw = open(a_fname, 'a')
                     if (a_email_addr_prev != a_email_addr_now):
                         a_sw.write('以下のエンジニアは、' + a_dt_str2 + '時点で契約終了のものがありますが、次の契約情報が登録されていません。\n\n')
                         a_file_list.append(a_email_addr_now)
 
                     a_sw.write('-' * 20 + '\n')
-                    a_sw.write('契約開始日：' + a_row[0].strftime('%Y年%m月%d日') + '\n')
-                    a_sw.write('契約終了日：' + a_row[1].strftime('%Y年%m月%d日') + '\n')
-                    a_sw.write('契約No：' + a_row[2].encode('utf-8') + '\n')
-                    a_sw.write('エンジニアNo：' + a_row[3].encode('utf-8') + '\n')
-                    a_sw.write('エンジニア名：' + a_row[4].encode('utf-8') + '\n')
-                    a_sw.write('フリガナ：' + a_row[5].encode('utf-8') + '\n')
+                    a_sw.write('契約開始日：' + a_row['claim_agreement_start'].strftime('%Y年%m月%d日') + '\n')
+                    a_sw.write('契約終了日：' + a_row['claim_agreement_end'].strftime('%Y年%m月%d日') + '\n')
+                    a_sw.write('契約No：' + a_row['contract_number'].encode('utf-8') + '\n')
+                    a_sw.write('エンジニアNo：' + a_row['engineer_number'].encode('utf-8') + '\n')
+                    a_sw.write('エンジニア名：' + a_row['engineer_name'].encode('utf-8') + '\n')
+                    a_sw.write('フリガナ：' + a_row['engneer_name_phonetic'].encode('utf-8') + '\n')
                     #print(a_row[0], a_row[1], a_row[2], a_row[3], a_row[4], a_row[5], a_row[6])
                     a_sw.close()
                 a_email_addr_prev = a_email_addr_now
