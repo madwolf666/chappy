@@ -12,6 +12,7 @@ print(sales_sparkring)
 index = pd.date_range("1980-01-31","1995-07-31",freq="M")
 sales_sparkring.index=index
 del sales_sparkring["Month"]
+print(sales_sparkring)
 
 # モデルの当てはめ
 # ★statespaceでエラー！

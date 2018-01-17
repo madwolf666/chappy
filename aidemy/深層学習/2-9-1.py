@@ -9,7 +9,7 @@ from keras import optimizers
 from keras.utils.np_utils import to_categorical
 
 (X_train, y_train), (X_test, y_test) = mnist.load_data()
-
+print(X_train)
 X_train = X_train.reshape(X_train.shape[0], 784)[:1500]
 X_test = X_test.reshape(X_test.shape[0], 784)[:6000]
 y_train = to_categorical(y_train)[:1500]
