@@ -190,6 +190,7 @@ def _predict_Loto(h_num, h_s, h_pred_date_start, h_pred_date_end):
         a_pred_num.append(a_pred[len(a_pred) - 1])
 
         # preadデータともとの時系列データの可視化
+        '''
         plt.plot.__init__()
         plt.title("No." + str(str(a_i)))
         plt.xlabel("date")
@@ -197,6 +198,7 @@ def _predict_Loto(h_num, h_s, h_pred_date_start, h_pred_date_end):
         plt.plot(a_df)
         plt.plot(a_pred,color="r")
         plt.show()
+        '''
 
     return a_pred_num
 
