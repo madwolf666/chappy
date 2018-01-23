@@ -140,7 +140,7 @@ def _predict_Loto(h_num, h_s, h_pred_date_start, h_pred_date_end):
     # 第x数字毎に予測
     ########################################
     a_pred_num = []
-
+    #h_num = 1
     for a_i in range(1, h_num + 1):
         a_num_str = '第' + str(a_i) + '数字'
         a_df = a_df_csv[[a_num_str]]
@@ -305,7 +305,7 @@ def _cehck_Residual(h_SARIMA, h_period):
 
 if __name__ == '__main__':
     #Loto6
-    a_pred_num = _predict_Loto(6, 3, '2017-12-01', '2018-1-18')
+    a_pred_num = _predict_Loto(6, 14, '2017-12-01', '2018-1-18')
     print('### Loto' + str(6) + ' 予想 ###\n')
     print(a_pred_num)
 
